@@ -1,9 +1,6 @@
-<imagen>
- <source media="(prefiere-esquema-de-color: oscuro)" srcset="<img [width="512" height="360" alt="image" src="https://github.com/user-attachments/assets/22c4fe54-25d1-4434-b16d-42325f830fd9](https://es.wikipedia.org/wiki/Batman#/media/Archivo:Batman_(black_background).jpg)" />
-">
- <source media="(prefiere-esquema-de-color: claro)" srcset="<img[ width="512" height="360" alt="image" src="https://github.com/user-attachments/assets/b6e1e8fc-32f3-453b-89f5-f908d87b4763](https://es.wikipedia.org/wiki/Batman#/media/Archivo:Batman_(black_background).jpg)" />
-">
- <img alt="La_imagen_es_de_Batman" src="<img [width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/749c2908-3e29-4f63-928c-b73b305188e7"](https://es.wikipedia.org/wiki/Batman#/media/Archivo:Batman_(black_background).jpg) />
-">
-</imagen>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
